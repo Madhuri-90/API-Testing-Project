@@ -24,3 +24,8 @@ This project demonstrates API testing using Postman on the public JSONPlaceholde
 - Valid request tests
 - Negative scenarios (e.g., invalid ID)
 - Response schema checks
+
+## 💻 Author
+
+Created by Madhuri Korade – [GitHub](https://github.com/Madhuri-90)  
+QA Engineer | Passionate about API Testing and Automation Testing
